@@ -7,8 +7,8 @@
   },
   {
     "full_name": "mpetuska/kon",
-    "stargazers_count": 18,
-    "open_issues_count": 1,
+    "stargazers_count": 21,
+    "open_issues_count": 0,
     "forks_count": 1
   },
   {
@@ -19,13 +19,13 @@
   },
   {
     "full_name": "replicatedhq/kURL",
-    "stargazers_count": 499,
-    "open_issues_count": 112,
-    "forks_count": 34
+    "stargazers_count": 500,
+    "open_issues_count": 118,
+    "forks_count": 35
   },
   {
     "full_name": "facebook/mariana-trench",
-    "stargazers_count": 590,
+    "stargazers_count": 600,
     "open_issues_count": 8,
     "forks_count": 62
   },
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "eradman/entr",
-    "stargazers_count": 1339,
+    "stargazers_count": 1347,
     "open_issues_count": 4,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "shipa-corp/ketch",
-    "stargazers_count": 511,
-    "open_issues_count": 10,
-    "forks_count": 69
+    "stargazers_count": 516,
+    "open_issues_count": 9,
+    "forks_count": 70
   },
   {
     "full_name": "hwslabs/grpc-kotlin-starter",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "dvarrazzo/pg_seldump",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 6,
     "forks_count": 3
   },
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "psycopg/psycopg",
-    "stargazers_count": 473,
-    "open_issues_count": 11,
+    "stargazers_count": 478,
+    "open_issues_count": 13,
     "forks_count": 28
   },
   {
@@ -116,7 +116,7 @@
   {
     "full_name": "testingisdocumenting/znai",
     "stargazers_count": 48,
-    "open_issues_count": 28,
+    "open_issues_count": 29,
     "forks_count": 6
   },
   {
@@ -128,12 +128,12 @@
   {
     "full_name": "kotest/kotest-assertions-arrow",
     "stargazers_count": 7,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "rickclephas/KMP-NativeCoroutines",
-    "stargazers_count": 132,
+    "stargazers_count": 133,
     "open_issues_count": 2,
     "forks_count": 4
   },
@@ -147,7 +147,7 @@
     "full_name": "linkedin/pygradle",
     "stargazers_count": 543,
     "open_issues_count": 90,
-    "forks_count": 147
+    "forks_count": 148
   },
   {
     "full_name": "xmartlabs/TypedNavigation",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "terrakok/kmm-awesome",
-    "stargazers_count": 313,
+    "stargazers_count": 327,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "Azure/azure-sdk-for-python",
-    "stargazers_count": 2199,
-    "open_issues_count": 1051,
-    "forks_count": 1521
+    "stargazers_count": 2202,
+    "open_issues_count": 1050,
+    "forks_count": 1523
   },
   {
     "full_name": "Azure/azure-sdk-for-net",
-    "stargazers_count": 2956,
-    "open_issues_count": 1573,
-    "forks_count": 3015
+    "stargazers_count": 2958,
+    "open_issues_count": 1586,
+    "forks_count": 3022
   }
 ]
