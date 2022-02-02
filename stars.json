@@ -20,14 +20,14 @@
   {
     "full_name": "replicatedhq/kURL",
     "stargazers_count": 539,
-    "open_issues_count": 72,
+    "open_issues_count": 74,
     "forks_count": 42
   },
   {
     "full_name": "facebook/mariana-trench",
-    "stargazers_count": 770,
+    "stargazers_count": 774,
     "open_issues_count": 12,
-    "forks_count": 94
+    "forks_count": 95
   },
   {
     "full_name": "LGoodDatePicker/LGoodDatePicker",
@@ -49,14 +49,14 @@
   },
   {
     "full_name": "eradman/entr",
-    "stargazers_count": 1483,
+    "stargazers_count": 1485,
     "open_issues_count": 4,
     "forks_count": 44
   },
   {
     "full_name": "shipa-corp/ketch",
     "stargazers_count": 563,
-    "open_issues_count": 7,
+    "open_issues_count": 5,
     "forks_count": 82
   },
   {
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "psycopg/psycopg",
-    "stargazers_count": 586,
+    "stargazers_count": 590,
     "open_issues_count": 19,
-    "forks_count": 47
+    "forks_count": 49
   },
   {
     "full_name": "brudaswen/kotlinx-serialization-csv",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 2,
     "forks_count": 5
   },
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "rickclephas/KMP-NativeCoroutines",
-    "stargazers_count": 217,
+    "stargazers_count": 218,
     "open_issues_count": 8,
     "forks_count": 10
   },
@@ -158,25 +158,25 @@
   {
     "full_name": "ch4rl3x/HtmlText",
     "stargazers_count": 18,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "terrakok/kmm-awesome",
-    "stargazers_count": 500,
+    "stargazers_count": 503,
     "open_issues_count": 0,
     "forks_count": 20
   },
   {
     "full_name": "Azure/azure-sdk-for-python",
-    "stargazers_count": 2351,
-    "open_issues_count": 884,
-    "forks_count": 1647
+    "stargazers_count": 2350,
+    "open_issues_count": 892,
+    "forks_count": 1651
   },
   {
     "full_name": "Azure/azure-sdk-for-net",
-    "stargazers_count": 3251,
-    "open_issues_count": 1611,
-    "forks_count": 3204
+    "stargazers_count": 3258,
+    "open_issues_count": 1627,
+    "forks_count": 3213
   }
 ]
