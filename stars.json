@@ -19,8 +19,8 @@
   },
   {
     "full_name": "replicatedhq/kURL",
-    "stargazers_count": 544,
-    "open_issues_count": 88,
+    "stargazers_count": 545,
+    "open_issues_count": 87,
     "forks_count": 44
   },
   {
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "eradman/entr",
-    "stargazers_count": 1521,
+    "stargazers_count": 1522,
     "open_issues_count": 4,
     "forks_count": 45
   },
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "psycopg/psycopg",
-    "stargazers_count": 606,
-    "open_issues_count": 20,
-    "forks_count": 52
+    "stargazers_count": 611,
+    "open_issues_count": 22,
+    "forks_count": 53
   },
   {
     "full_name": "brudaswen/kotlinx-serialization-csv",
@@ -116,24 +116,24 @@
   {
     "full_name": "testingisdocumenting/znai",
     "stargazers_count": 67,
-    "open_issues_count": 28,
+    "open_issues_count": 30,
     "forks_count": 8
   },
   {
     "full_name": "open-jumpco/kfsm-mpp-compose-traffic",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "kotest/kotest-assertions-arrow",
     "stargazers_count": 16,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "rickclephas/KMP-NativeCoroutines",
-    "stargazers_count": 255,
+    "stargazers_count": 257,
     "open_issues_count": 10,
     "forks_count": 12
   },
@@ -158,25 +158,25 @@
   {
     "full_name": "ch4rl3x/HtmlText",
     "stargazers_count": 23,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 5
   },
   {
     "full_name": "terrakok/kmm-awesome",
-    "stargazers_count": 535,
+    "stargazers_count": 540,
     "open_issues_count": 0,
     "forks_count": 23
   },
   {
     "full_name": "Azure/azure-sdk-for-python",
-    "stargazers_count": 2528,
-    "open_issues_count": 866,
-    "forks_count": 1674
+    "stargazers_count": 2536,
+    "open_issues_count": 864,
+    "forks_count": 1678
   },
   {
     "full_name": "Azure/azure-sdk-for-net",
-    "stargazers_count": 3333,
-    "open_issues_count": 1611,
-    "forks_count": 3270
+    "stargazers_count": 3336,
+    "open_issues_count": 1606,
+    "forks_count": 3278
   }
 ]
