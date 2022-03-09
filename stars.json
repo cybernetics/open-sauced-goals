@@ -20,12 +20,12 @@
   {
     "full_name": "replicatedhq/kURL",
     "stargazers_count": 547,
-    "open_issues_count": 87,
+    "open_issues_count": 88,
     "forks_count": 44
   },
   {
     "full_name": "facebook/mariana-trench",
-    "stargazers_count": 795,
+    "stargazers_count": 799,
     "open_issues_count": 14,
     "forks_count": 100
   },
@@ -44,19 +44,19 @@
   {
     "full_name": "rognan/deno-gradle-plugin",
     "stargazers_count": 1,
-    "open_issues_count": 4,
+    "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "eradman/entr",
-    "stargazers_count": 1525,
+    "stargazers_count": 1533,
     "open_issues_count": 4,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "shipa-corp/ketch",
     "stargazers_count": 576,
-    "open_issues_count": 6,
+    "open_issues_count": 5,
     "forks_count": 85
   },
   {
@@ -97,14 +97,14 @@
   },
   {
     "full_name": "dvarrazzo/py-setproctitle",
-    "stargazers_count": 399,
+    "stargazers_count": 400,
     "open_issues_count": 12,
     "forks_count": 60
   },
   {
     "full_name": "psycopg/psycopg",
-    "stargazers_count": 613,
-    "open_issues_count": 22,
+    "stargazers_count": 617,
+    "open_issues_count": 23,
     "forks_count": 53
   },
   {
@@ -134,8 +134,8 @@
   {
     "full_name": "rickclephas/KMP-NativeCoroutines",
     "stargazers_count": 259,
-    "open_issues_count": 9,
-    "forks_count": 12
+    "open_issues_count": 10,
+    "forks_count": 11
   },
   {
     "full_name": "xvik/gradle-use-python-plugin",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "linkedin/pygradle",
-    "stargazers_count": 548,
+    "stargazers_count": 549,
     "open_issues_count": 92,
     "forks_count": 155
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "terrakok/kmm-awesome",
-    "stargazers_count": 546,
+    "stargazers_count": 550,
     "open_issues_count": 0,
     "forks_count": 23
   },
   {
     "full_name": "Azure/azure-sdk-for-python",
-    "stargazers_count": 2548,
-    "open_issues_count": 872,
-    "forks_count": 1686
+    "stargazers_count": 2552,
+    "open_issues_count": 884,
+    "forks_count": 1695
   },
   {
     "full_name": "Azure/azure-sdk-for-net",
-    "stargazers_count": 3340,
-    "open_issues_count": 1608,
-    "forks_count": 3287
+    "stargazers_count": 3351,
+    "open_issues_count": 1610,
+    "forks_count": 3291
   }
 ]
