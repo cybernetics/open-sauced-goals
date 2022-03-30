@@ -1,7 +1,7 @@
 [
   {
     "full_name": "polarene/micro-template",
-    "stargazers_count": 24,
+    "stargazers_count": 25,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "replicatedhq/kURL",
-    "stargazers_count": 548,
-    "open_issues_count": 90,
+    "stargazers_count": 549,
+    "open_issues_count": 89,
     "forks_count": 44
   },
   {
     "full_name": "facebook/mariana-trench",
-    "stargazers_count": 808,
+    "stargazers_count": 809,
     "open_issues_count": 14,
-    "forks_count": 102
+    "forks_count": 103
   },
   {
     "full_name": "LGoodDatePicker/LGoodDatePicker",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "eradman/entr",
-    "stargazers_count": 1597,
+    "stargazers_count": 1602,
     "open_issues_count": 4,
     "forks_count": 47
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "dvarrazzo/py-setproctitle",
-    "stargazers_count": 406,
+    "stargazers_count": 407,
     "open_issues_count": 12,
     "forks_count": 60
   },
@@ -116,7 +116,7 @@
   {
     "full_name": "testingisdocumenting/znai",
     "stargazers_count": 71,
-    "open_issues_count": 30,
+    "open_issues_count": 33,
     "forks_count": 8
   },
   {
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "rickclephas/KMP-NativeCoroutines",
-    "stargazers_count": 270,
-    "open_issues_count": 14,
-    "forks_count": 13
+    "stargazers_count": 271,
+    "open_issues_count": 15,
+    "forks_count": 14
   },
   {
     "full_name": "xvik/gradle-use-python-plugin",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "terrakok/kmm-awesome",
-    "stargazers_count": 575,
+    "stargazers_count": 579,
     "open_issues_count": 0,
-    "forks_count": 23
+    "forks_count": 24
   },
   {
     "full_name": "Azure/azure-sdk-for-python",
-    "stargazers_count": 2589,
-    "open_issues_count": 898,
-    "forks_count": 1710
+    "stargazers_count": 2594,
+    "open_issues_count": 883,
+    "forks_count": 1714
   },
   {
     "full_name": "Azure/azure-sdk-for-net",
-    "stargazers_count": 3400,
-    "open_issues_count": 1623,
-    "forks_count": 3327
+    "stargazers_count": 3409,
+    "open_issues_count": 1630,
+    "forks_count": 3334
   }
 ]
