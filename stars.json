@@ -19,21 +19,21 @@
   },
   {
     "full_name": "replicatedhq/kURL",
-    "stargazers_count": 555,
+    "stargazers_count": 556,
     "open_issues_count": 98,
     "forks_count": 47
   },
   {
     "full_name": "facebook/mariana-trench",
-    "stargazers_count": 822,
-    "open_issues_count": 16,
-    "forks_count": 102
+    "stargazers_count": 824,
+    "open_issues_count": 15,
+    "forks_count": 103
   },
   {
     "full_name": "LGoodDatePicker/LGoodDatePicker",
     "stargazers_count": 205,
     "open_issues_count": 19,
-    "forks_count": 77
+    "forks_count": 76
   },
   {
     "full_name": "kotlin-graphics/build-logic",
@@ -49,14 +49,14 @@
   },
   {
     "full_name": "eradman/entr",
-    "stargazers_count": 1802,
-    "open_issues_count": 4,
-    "forks_count": 49
+    "stargazers_count": 1820,
+    "open_issues_count": 6,
+    "forks_count": 51
   },
   {
     "full_name": "shipa-corp/ketch",
     "stargazers_count": 585,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 86
   },
   {
@@ -97,15 +97,15 @@
   },
   {
     "full_name": "dvarrazzo/py-setproctitle",
-    "stargazers_count": 407,
-    "open_issues_count": 9,
+    "stargazers_count": 408,
+    "open_issues_count": 2,
     "forks_count": 61
   },
   {
     "full_name": "psycopg/psycopg",
-    "stargazers_count": 651,
+    "stargazers_count": 653,
     "open_issues_count": 27,
-    "forks_count": 61
+    "forks_count": 60
   },
   {
     "full_name": "brudaswen/kotlinx-serialization-csv",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "testingisdocumenting/znai",
-    "stargazers_count": 73,
+    "stargazers_count": 74,
     "open_issues_count": 33,
     "forks_count": 8
   },
@@ -127,13 +127,13 @@
   },
   {
     "full_name": "kotest/kotest-assertions-arrow",
-    "stargazers_count": 25,
-    "open_issues_count": 2,
+    "stargazers_count": 26,
+    "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "rickclephas/KMP-NativeCoroutines",
-    "stargazers_count": 295,
+    "stargazers_count": 298,
     "open_issues_count": 11,
     "forks_count": 15
   },
@@ -146,7 +146,7 @@
   {
     "full_name": "linkedin/pygradle",
     "stargazers_count": 553,
-    "open_issues_count": 91,
+    "open_issues_count": 92,
     "forks_count": 155
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "terrakok/kmm-awesome",
-    "stargazers_count": 605,
+    "stargazers_count": 608,
     "open_issues_count": 0,
     "forks_count": 26
   },
   {
     "full_name": "Azure/azure-sdk-for-python",
-    "stargazers_count": 2747,
-    "open_issues_count": 897,
-    "forks_count": 1746
+    "stargazers_count": 2749,
+    "open_issues_count": 891,
+    "forks_count": 1749
   },
   {
     "full_name": "Azure/azure-sdk-for-net",
-    "stargazers_count": 3637,
-    "open_issues_count": 1646,
-    "forks_count": 3406
+    "stargazers_count": 3641,
+    "open_issues_count": 1656,
+    "forks_count": 3415
   }
 ]
