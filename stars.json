@@ -20,14 +20,14 @@
   {
     "full_name": "replicatedhq/kURL",
     "stargazers_count": 557,
-    "open_issues_count": 88,
+    "open_issues_count": 73,
     "forks_count": 48
   },
   {
     "full_name": "facebook/mariana-trench",
-    "stargazers_count": 838,
-    "open_issues_count": 20,
-    "forks_count": 108
+    "stargazers_count": 841,
+    "open_issues_count": 21,
+    "forks_count": 109
   },
   {
     "full_name": "LGoodDatePicker/LGoodDatePicker",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "eradman/entr",
-    "stargazers_count": 1944,
+    "stargazers_count": 2020,
     "open_issues_count": 0,
-    "forks_count": 51
+    "forks_count": 58
   },
   {
     "full_name": "shipa-corp/ketch",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "psycopg/psycopg",
-    "stargazers_count": 676,
-    "open_issues_count": 22,
+    "stargazers_count": 679,
+    "open_issues_count": 21,
     "forks_count": 62
   },
   {
@@ -128,12 +128,12 @@
   {
     "full_name": "kotest/kotest-assertions-arrow",
     "stargazers_count": 28,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "rickclephas/KMP-NativeCoroutines",
-    "stargazers_count": 312,
+    "stargazers_count": 313,
     "open_issues_count": 14,
     "forks_count": 15
   },
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "terrakok/kmm-awesome",
-    "stargazers_count": 631,
+    "stargazers_count": 634,
     "open_issues_count": 0,
     "forks_count": 26
   },
   {
     "full_name": "Azure/azure-sdk-for-python",
-    "stargazers_count": 2800,
+    "stargazers_count": 2805,
     "open_issues_count": 911,
-    "forks_count": 1768
+    "forks_count": 1770
   },
   {
     "full_name": "Azure/azure-sdk-for-net",
-    "stargazers_count": 3673,
-    "open_issues_count": 1729,
-    "forks_count": 3464
+    "stargazers_count": 3680,
+    "open_issues_count": 1736,
+    "forks_count": 3469
   }
 ]
