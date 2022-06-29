@@ -19,19 +19,19 @@
   },
   {
     "full_name": "replicatedhq/kURL",
-    "stargazers_count": 565,
-    "open_issues_count": 89,
+    "stargazers_count": 564,
+    "open_issues_count": 86,
     "forks_count": 49
   },
   {
     "full_name": "facebook/mariana-trench",
-    "stargazers_count": 843,
+    "stargazers_count": 844,
     "open_issues_count": 22,
-    "forks_count": 110
+    "forks_count": 111
   },
   {
     "full_name": "LGoodDatePicker/LGoodDatePicker",
-    "stargazers_count": 212,
+    "stargazers_count": 211,
     "open_issues_count": 19,
     "forks_count": 79
   },
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "eradman/entr",
-    "stargazers_count": 2273,
+    "stargazers_count": 2288,
     "open_issues_count": 0,
     "forks_count": 70
   },
   {
     "full_name": "shipa-corp/ketch",
     "stargazers_count": 591,
-    "open_issues_count": 11,
-    "forks_count": 89
+    "open_issues_count": 10,
+    "forks_count": 90
   },
   {
     "full_name": "hwslabs/grpc-kotlin-starter",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "psycopg/psycopg",
-    "stargazers_count": 704,
-    "open_issues_count": 21,
+    "stargazers_count": 707,
+    "open_issues_count": 23,
     "forks_count": 63
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "testingisdocumenting/znai",
-    "stargazers_count": 90,
+    "stargazers_count": 91,
     "open_issues_count": 20,
     "forks_count": 9
   },
@@ -128,13 +128,13 @@
   {
     "full_name": "kotest/kotest-assertions-arrow",
     "stargazers_count": 28,
-    "open_issues_count": 15,
+    "open_issues_count": 18,
     "forks_count": 7
   },
   {
     "full_name": "rickclephas/KMP-NativeCoroutines",
-    "stargazers_count": 329,
-    "open_issues_count": 14,
+    "stargazers_count": 333,
+    "open_issues_count": 12,
     "forks_count": 16
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "terrakok/kmm-awesome",
-    "stargazers_count": 662,
+    "stargazers_count": 664,
     "open_issues_count": 0,
     "forks_count": 29
   },
   {
     "full_name": "Azure/azure-sdk-for-python",
-    "stargazers_count": 2862,
-    "open_issues_count": 861,
-    "forks_count": 1811
+    "stargazers_count": 2866,
+    "open_issues_count": 866,
+    "forks_count": 1814
   },
   {
     "full_name": "Azure/azure-sdk-for-net",
-    "stargazers_count": 3815,
-    "open_issues_count": 1619,
-    "forks_count": 3519
+    "stargazers_count": 3821,
+    "open_issues_count": 1635,
+    "forks_count": 3527
   }
 ]
