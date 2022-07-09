@@ -19,13 +19,13 @@
   },
   {
     "full_name": "replicatedhq/kURL",
-    "stargazers_count": 565,
-    "open_issues_count": 80,
+    "stargazers_count": 568,
+    "open_issues_count": 79,
     "forks_count": 49
   },
   {
     "full_name": "facebook/mariana-trench",
-    "stargazers_count": 845,
+    "stargazers_count": 847,
     "open_issues_count": 23,
     "forks_count": 113
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "eradman/entr",
-    "stargazers_count": 2315,
+    "stargazers_count": 2336,
     "open_issues_count": 0,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "shipa-corp/ketch",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "psycopg/psycopg",
-    "stargazers_count": 716,
+    "stargazers_count": 719,
     "open_issues_count": 20,
     "forks_count": 65
   },
@@ -116,7 +116,7 @@
   {
     "full_name": "testingisdocumenting/znai",
     "stargazers_count": 92,
-    "open_issues_count": 19,
+    "open_issues_count": 18,
     "forks_count": 9
   },
   {
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "rickclephas/KMP-NativeCoroutines",
-    "stargazers_count": 342,
+    "stargazers_count": 353,
     "open_issues_count": 12,
     "forks_count": 16
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "Azure/azure-sdk-for-python",
-    "stargazers_count": 2886,
-    "open_issues_count": 882,
-    "forks_count": 1824
+    "stargazers_count": 2891,
+    "open_issues_count": 876,
+    "forks_count": 1830
   },
   {
     "full_name": "Azure/azure-sdk-for-net",
-    "stargazers_count": 3826,
-    "open_issues_count": 1641,
-    "forks_count": 3538
+    "stargazers_count": 3833,
+    "open_issues_count": 1645,
+    "forks_count": 3546
   }
 ]
