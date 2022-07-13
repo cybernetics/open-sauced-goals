@@ -19,19 +19,19 @@
   },
   {
     "full_name": "replicatedhq/kURL",
-    "stargazers_count": 568,
-    "open_issues_count": 79,
+    "stargazers_count": 570,
+    "open_issues_count": 83,
     "forks_count": 49
   },
   {
     "full_name": "facebook/mariana-trench",
-    "stargazers_count": 847,
+    "stargazers_count": 848,
     "open_issues_count": 23,
     "forks_count": 113
   },
   {
     "full_name": "LGoodDatePicker/LGoodDatePicker",
-    "stargazers_count": 212,
+    "stargazers_count": 211,
     "open_issues_count": 19,
     "forks_count": 79
   },
@@ -49,14 +49,14 @@
   },
   {
     "full_name": "eradman/entr",
-    "stargazers_count": 2336,
+    "stargazers_count": 2352,
     "open_issues_count": 0,
     "forks_count": 70
   },
   {
     "full_name": "shipa-corp/ketch",
     "stargazers_count": 591,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 90
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "psycopg/psycopg",
-    "stargazers_count": 719,
+    "stargazers_count": 725,
     "open_issues_count": 20,
-    "forks_count": 65
+    "forks_count": 64
   },
   {
     "full_name": "brudaswen/kotlinx-serialization-csv",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "rickclephas/KMP-NativeCoroutines",
-    "stargazers_count": 353,
+    "stargazers_count": 356,
     "open_issues_count": 12,
     "forks_count": 16
   },
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "linkedin/pygradle",
-    "stargazers_count": 561,
-    "open_issues_count": 92,
+    "stargazers_count": 559,
+    "open_issues_count": 93,
     "forks_count": 155
   },
   {
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "ch4rl3x/HtmlText",
-    "stargazers_count": 37,
+    "stargazers_count": 39,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "terrakok/kmm-awesome",
-    "stargazers_count": 670,
+    "stargazers_count": 677,
     "open_issues_count": 0,
-    "forks_count": 29
+    "forks_count": 30
   },
   {
     "full_name": "Azure/azure-sdk-for-python",
-    "stargazers_count": 2891,
-    "open_issues_count": 876,
-    "forks_count": 1830
+    "stargazers_count": 2895,
+    "open_issues_count": 874,
+    "forks_count": 1847
   },
   {
     "full_name": "Azure/azure-sdk-for-net",
-    "stargazers_count": 3833,
-    "open_issues_count": 1645,
-    "forks_count": 3546
+    "stargazers_count": 3836,
+    "open_issues_count": 1660,
+    "forks_count": 3552
   }
 ]
