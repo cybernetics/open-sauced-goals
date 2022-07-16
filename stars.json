@@ -20,13 +20,13 @@
   {
     "full_name": "replicatedhq/kURL",
     "stargazers_count": 570,
-    "open_issues_count": 83,
+    "open_issues_count": 66,
     "forks_count": 49
   },
   {
     "full_name": "facebook/mariana-trench",
-    "stargazers_count": 848,
-    "open_issues_count": 23,
+    "stargazers_count": 849,
+    "open_issues_count": 24,
     "forks_count": 113
   },
   {
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "eradman/entr",
-    "stargazers_count": 2352,
+    "stargazers_count": 2362,
     "open_issues_count": 0,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "shipa-corp/ketch",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "psycopg/psycopg",
-    "stargazers_count": 725,
-    "open_issues_count": 20,
+    "stargazers_count": 731,
+    "open_issues_count": 19,
     "forks_count": 64
   },
   {
@@ -116,7 +116,7 @@
   {
     "full_name": "testingisdocumenting/znai",
     "stargazers_count": 92,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 9
   },
   {
@@ -128,7 +128,7 @@
   {
     "full_name": "kotest/kotest-assertions-arrow",
     "stargazers_count": 28,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 7
   },
   {
@@ -146,7 +146,7 @@
   {
     "full_name": "linkedin/pygradle",
     "stargazers_count": 559,
-    "open_issues_count": 93,
+    "open_issues_count": 92,
     "forks_count": 155
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "terrakok/kmm-awesome",
-    "stargazers_count": 677,
+    "stargazers_count": 679,
     "open_issues_count": 0,
     "forks_count": 30
   },
   {
     "full_name": "Azure/azure-sdk-for-python",
-    "stargazers_count": 2895,
-    "open_issues_count": 874,
-    "forks_count": 1847
+    "stargazers_count": 2899,
+    "open_issues_count": 881,
+    "forks_count": 1857
   },
   {
     "full_name": "Azure/azure-sdk-for-net",
-    "stargazers_count": 3836,
-    "open_issues_count": 1660,
-    "forks_count": 3552
+    "stargazers_count": 3840,
+    "open_issues_count": 1647,
+    "forks_count": 3559
   }
 ]
